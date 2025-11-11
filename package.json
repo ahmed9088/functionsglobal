@@ -18,7 +18,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-    "scripts": {
+  "homepage": "https://ahmed9088.github.io/funtionsglobal",
+  "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
